@@ -14,9 +14,9 @@
 
 A little about me:
 
-- 🔭 I’m currently working on: **A quantitative trading algorithm for MAANG Equities**
+- 🔭 I’m currently working on: **A Quantitative Trading Algorithm for MAANG Equities**
 
-- ⚡ Fun fact: **I once held a record at the Science Museum in London**
+- ⚡ Fun fact: **I Once Held a World Record"" 
 
 - 🌱 I’m currently learning: **[The Google Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)**
 

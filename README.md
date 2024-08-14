@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center"> 👋 HELLO! 👋</h1>
-<h3 align="center">I'm Bailey - a computer science student studying at Swansea University.</h3>
+<h3 align="center">I'm Bailey - a Hobbyist Quant Trader & Computer Science Student Studying at Swansea University.</h3>
 
 A little about me:
 

@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=baileyc03&label=Profile%20views&color=0e75b6&style=flat" alt="baileyc03" /> </p>
 </div>
 
-<h1 align="center">HI!, I'm Bailey! 👋👋</h1>
-<h3 align="center">I'm a computer science student studying at Swansea University.</h3>
+<h1 align="center">HI! 👋👋</h1>
+<h3 align="center">I'm Bailey - a computer science student studying at Swansea University.</h3>
 
 
 - 🔭 I’m currently working on: **A quantitative trading algorithm for MAANG Equities**

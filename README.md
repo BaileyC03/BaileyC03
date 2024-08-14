@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZoNWY2djlheDB0cnFiaHp6cW5zZTRzbHVrdzBlbXNnOWtjbjhuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)" width="100"/>
+</div>
 <h1 align="center">Hi!, I'm Bailey! 👋👋</h1>
 <h3 align="center">I'm a computer science student studying at Swansea University.</h3>
 

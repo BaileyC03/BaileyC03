@@ -16,7 +16,7 @@ A little about me:
 
 - 🔭 I’m currently working on: **A Quantitative Trading Algorithm for MAANG Equities**
 
-- ⚡ Fun fact: **I Once Held a World Record**
+- ⚡ Fun fact: **I Once Held a World Record for Balancing Wooden Blocks**
 
 - 🌱 I’m currently learning: **[The Google Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)**
 

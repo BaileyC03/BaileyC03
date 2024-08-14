@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=baileyc03&label=Profile%20views&color=0e75b6&style=flat" alt="baileyc03" /> </p>
 </div>
 
-<h1 align="center">HI! 👋👋</h1>
+<h1 align="center"> 👋 HELLO! 👋</h1>
 <h3 align="center">I'm Bailey - a computer science student studying at Swansea University.</h3>
 
 A little about me:

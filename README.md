@@ -12,6 +12,7 @@
 <h1 align="center">HI! 👋👋</h1>
 <h3 align="center">I'm Bailey - a computer science student studying at Swansea University.</h3>
 
+A little about me:
 
 - 🔭 I’m currently working on: **A quantitative trading algorithm for MAANG Equities**
 

@@ -22,7 +22,7 @@ A little about me:
 
 - 📫 How to reach me: <a href="mailto:BaileyCockett2003@Gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/baileyc03/)
 
-<h2 align="center"> Tools and Technologies: </h3>
+<h2 align="center"> 🛠️🛠️ Tools and Technologies: </h3>
 <div id = "header" align ="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" **alt="JUnit" width="40" height="40"/>
@@ -40,11 +40,16 @@ A little about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian"  alt="Debian" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="center"> Languages I Speak / Am Learning: </h3>
+
+<h2 align="center"> 🌿🌿 My Activity: </h3>
+<div id = "header" align ="center">
+  <img src="https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<h2 align="center"> 💬💬 Languages I Speak / Am Learning: </h3>
 <div id = "header" align ="center">
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" title="English"  alt="English" width="40" height="40"/>&nbsp;
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg" title="Russian"  alt="Russian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" title="German"  alt="German" width="40" height="40"/>&nbsp;
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lt.svg" title="Lithuanian"  alt="Lithuanian" width="40" height="40"/>&nbsp;
-  
 </div>

@@ -11,7 +11,7 @@
 
 <h1 align="center"> ☢️ HELLO! ☢️ </h1>
 <h3 align="center">I'm Bailey - a Hobbyist Quant Trader & Computer Science Student Studying at Swansea University.</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 A little about me:
 
 - 🔭 I’m currently working on: **A Quantitative Trading Algorithm for MAANG Equities**
@@ -45,8 +45,8 @@ A little about me:
 
 <h2 align="center"> 🌿 My Activity 🌿 </h3>
 <div id = "header" align ="center">
-  <img src="https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+  <img src= "https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=baileyc03&layout=compact&theme=github_dark"/>
 
 <h2 align="center"> 💬 Languages I Speak / Am Learning 💬 </h3>
 <div id = "header" align ="center">

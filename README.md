@@ -11,7 +11,7 @@
 
 <h1 align="center"> ☢️ HELLO! ☢️ </h1>
 <h3 align="center">I'm Bailey - a Hobbyist Quant Trader & Computer Science Student Studying at Swansea University.</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 A little about me:
 
 - 🔭 I’m currently working on: **A Quantitative Trading Algorithm for MAANG Equities**

@@ -51,7 +51,7 @@ A little about me:
 <h2 align="center"> 💬 Languages I Speak / Am Learning 💬 </h3>
 <div id = "header" align ="center">
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" title="English"  alt="English" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lt.svg" title="Lithuanian"  alt="Lithuanian" width="60" height="40"/>&nbsp;
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg" title="Russian"  alt="Russian" width="60" height="40"/>&nbsp;
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" title="German"  alt="German" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lt.svg" title="Lithuanian"  alt="Lithuanian" width="60" height="40"/>&nbsp;
 </div>

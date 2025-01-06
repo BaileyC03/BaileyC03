@@ -18,7 +18,7 @@ A little about me:
 
 - ⚡ Fun fact: **I Once Held a World Record for Balancing Wooden Blocks**
 
-- 🌱 I’m currently learning: **[The Google Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)**
+- 🌱 I’m currently undertaking: **[The Google Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)**
 
 - 📫 How to reach me: <a href="mailto:BaileyCockett2003@Gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/baileyc03/)
 

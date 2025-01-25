@@ -14,7 +14,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working on: **A Quantitative Trading Algorithm for MAANG Equities** 
+- 🔭 I’m currently working on: **AN INTERMEDIATE HTML & CSS FOR WEB DESIGN COURSE** 
 
 - ⚡ Fun fact: **I Once Held a World Record for Balancing Wooden Blocks**
 

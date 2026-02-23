@@ -48,6 +48,7 @@ A little about me:
 <h2 align="center"> 🌿 My Activity 🌿 </h3>
 <div id = "header" align ="center">
   <img src= "https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyC03)
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=baileyc03&layout=compact&theme=github_dark"/>
   
 <h2 align="center"> 💬 Languages I Speak / Am Learning 💬 </h3>

@@ -14,7 +14,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working on: **REDUCING LATENCY OF MY EUR/SOL TRADING ALGORITHM THROUGH DOWNLOADING WEBSOCKET DATA** 
+- 🔭 I’m currently working on: **A Property Pricing Web-App to Estimate House Evaluations** 
 
 - ⚡ Fun fact: **I Once Held a World Record for Balancing Wooden Blocks**
 

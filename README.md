@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Society%20President%20%7C%20Nerd&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Quant%20Trader%20%7C%20Builder&descAlignY=60&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=CS+Student+%40+Swansea+University;Hobbyist+Quant+Trader;Formal+Verification+Enthusiast;Building+an+Anki+Dungeon+Crawler;World+Record+Holder)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 ## ☢️ About Me
 
 - 🎓 **CS Student @ Swansea University**, Swansea, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- ⚔️ **Currently building:** A dungeon crawler gamifying Anki flashcard decks.
+- ⚔️ **Currently building:** A dungeon crawler that turns Anki flashcard decks into RPG adventures
 - 📈 **Currently learning:** Google ML for Trading Specialization
 - 🔬 **Interests:** Quantitative Trading · Formal Verification · ML/AI · Game Dev
 - 🪵 **Fun fact:** I once held a world record for balancing wooden blocks

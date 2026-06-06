@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS @ Swansea %20%7C%20Breaker Of Technology %20%7C%20President @ QuantSoc &descAlignY=60&descSize=18"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20%40%20Swansea%20%7C%20Breaker%20Of%20Technology%20%7C%20President%20%40%20QuantSoc&descAlignY=60&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=CS+%40+Swansea+University;Hobbyist+Quant+Developer;Formal+Verification+Enthusiast;Society+Preident;World+Record+Holder)](https://git.io/typing-svg)
 

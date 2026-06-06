@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Quant%20Trader%20%7C%20Builder&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%7C%20Quant%20Trader%20%7C%20Builder&descAlignY=60&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=CS+Student+%40+Swansea+University;Hobbyist+Quant+Trader;Formal+Verification+Enthusiast;Building+an+Anki+Dungeon+Crawler;World+Record+Holder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=CS+Student+%40+Swansea+University;Hobbyist+Quant+Trader;Formal+Verification+Enthusiast;Building+an+Anki+Dungeon+Crawler;World+Record+Holder)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baileyc03/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BaileyCockett2003@Gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=baileyc03&style=for-the-badge&color=F85D7F)
+![Profile Views](https://komarev.com/ghpvc/?username=baileyc03&style=for-the-badge&color=58A6FF)
 
 </div>
 
@@ -16,12 +16,15 @@
 
 ## ☢️ About Me
 
-- 🎓 **CS Student @ Swansea University**, Swansea, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- ⚔️ **Currently building:** A dungeon crawler that turns Anki flashcard decks into RPG adventures
-- 📈 **Currently learning:** Google ML for Trading Specialization
-- 🔬 **Interests:** Quantitative Trading · Formal Verification · ML/AI · Game Dev
-- 🪵 **Fun fact:** I once held a world record for balancing wooden blocks
-- 📫 **Contact:** [BaileyCockett2003@gmail.com](mailto:BaileyCockett2003@Gmail.com) · [LinkedIn](https://www.linkedin.com/in/baileyc03/)
+```python
+class Bailey:
+    location  = "Swansea, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+    education = "Computer Science @ Swansea University"
+    interests = ["Quant Trading 📈", "Formal Methods 🔬", "ML/AI 🤖", "Game Dev 🎮"]
+    building  = "Dungeon crawler that turns Anki decks into RPG adventures ⚔️"
+    learning  = "Google ML for Trading Specialization"
+    fun_fact  = "Once held a world record for balancing wooden blocks 🪵"
+```
 
 ---
 
@@ -34,7 +37,7 @@
 <br/>
 
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)
-![Dafny](https://img.shields.io/badge/Dafny-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dafny](https://img.shields.io/badge/Dafny-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -66,12 +69,12 @@
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=BaileyC03&theme=radical&hide_border=true&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaileyC03&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=BaileyC03&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaileyC03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyC03&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyC03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10"/>
 
 </div>
 
@@ -81,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BaileyC03&theme=radical&no-frame=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BaileyC03&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
 
 </div>
 
@@ -91,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaileyC03&theme=redical&hide_border=true&radius=8" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaileyC03&theme=tokyo-night&hide_border=true&radius=8" width="98%"/>
 
 <img src="https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -111,5 +114,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>

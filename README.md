@@ -1,59 +1,115 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXMxd2lieHQ0dHBxN3FpcHI5ZjRvY2Z0cnVkemc1aDZyZmNrYmprNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/baileyc03/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=baileyc03&label=Profile%20views&color=0e75b6&style=flat" alt="baileyc03" /> </p>
-</div>
+<div align="center">
 
-<h1 align="center"> ☢️ HELLO! ☢️ </h1>
-<h3 align="center">I'm Bailey - a Hobbyist Quant Trader & Computer Science Student Studying at Swansea University.</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=200&section=header&text=Bailey%20Cockett&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Society%20President%20%7C%20Nerd&descAlignY=60&descSize=18"/>
 
-A little about me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=700&lines=CS+Student+%40+Swansea+University;Hobbyist+Quant+Trader;Formal+Verification+Enthusiast;Building+an+Anki+Dungeon+Crawler;World+Record+Holder)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on: **A Property Pricing Web-App to Estimate House Evaluations** 
+<br/>
 
-- ⚡ Fun fact: **I Once Held a World Record for Balancing Wooden Blocks**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baileyc03/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BaileyCockett2003@Gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=baileyc03&style=for-the-badge&color=F85D7F)
 
-- 🌱 I’m currently undertaking: **[The Google Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)**
-
-- 📫 How to reach me: <a href="mailto:BaileyCockett2003@Gmail.com">Email</a>, [LinkedIn](https://www.linkedin.com/in/baileyc03/)
-
-<h2 align="center"> 🛠️ Tools and Technologies 🛠️ </h3>
-<div id = "header" align ="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" **alt="JUnit" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python UI" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="SciKit Learn" alt="SciKit Learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian"  alt="Debian" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell"  alt="Haskell" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
- 
 </div>
 
+---
 
-<h2 align="center"> 🌿 My Activity 🌿 </h3>
-<div id = "header" align ="center">
-  <img src= "https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyC03&layout=compact&theme=github_dark&cache_seconds=86400"/>
-  
-<h2 align="center"> 💬 Languages I Speak / Am Learning 💬 </h3>
-<div id = "header" align ="center">
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" title="English"  alt="English" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lt.svg" title="Lithuanian"  alt="Lithuanian" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg" title="Russian"  alt="Russian" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" title="German"  alt="German" width="60" height="40"/>&nbsp;
+## ☢️ About Me
+
+- 🎓 **CS Student @ Swansea University**, Swansea, Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+- ⚔️ **Currently building:** A dungeon crawler gamifying Anki flashcard decks.
+- 📈 **Currently learning:** Google ML for Trading Specialization
+- 🔬 **Interests:** Quantitative Trading · Formal Verification · ML/AI · Game Dev
+- 🪵 **Fun fact:** I once held a world record for balancing wooden blocks
+- 📫 **Contact:** [BaileyCockett2003@gmail.com](mailto:BaileyCockett2003@Gmail.com) · [LinkedIn](https://www.linkedin.com/in/baileyc03/)
+
+---
+
+## 🛠️ Languages
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,java,cpp,cs,haskell,ts,mysql,bash,html,css&perline=5)](https://skillicons.dev)
+
+<br/>
+
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)
+![Dafny](https://img.shields.io/badge/Dafny-7B2FBE?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
+
+## 🔧 Frameworks & Tools
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=flask,tensorflow,spring,git,debian&perline=5)](https://skillicons.dev)
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![VectorBT](https://img.shields.io/badge/VectorBT-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Bitstamp API](https://img.shields.io/badge/Bitstamp_API-00A86B?style=for-the-badge&logo=bitcoin&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com/?user=BaileyC03&theme=radical&hide_border=true&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaileyC03&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyC03&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BaileyC03&theme=radical&no-frame=true&row=1&column=7&margin-w=10"/>
+
+</div>
+
+---
+
+## 🌿 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaileyC03&theme=redical&hide_border=true&radius=8" width="98%"/>
+
+<img src="https://raw.githubusercontent.com/BaileyC03/BaileyC03/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🌍 Languages I Speak / Am Learning
+
+<div align="center">
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" title="English" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/lt.svg" title="Lithuanian" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ru.svg" title="Russian" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" title="German" width="60" height="40"/>&nbsp;
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,2&height=120&section=footer"/>
 </div>
